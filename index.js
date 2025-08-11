@@ -224,7 +224,7 @@ async function startconn() {
     code = code?.match(/.{1,4}/g)?.join("-") || code
 
     console.log(chalk.cyan(`\n╔════════════════════════════════════╗`))
-    console.log(chalk.cyan(`║        🤖 IMRAN BOT PAIRING MODE       ║`))
+    console.log(chalk.cyan(`║        🤖 TRESFOR-XD PAIRING MODE       ║`))
     console.log(chalk.cyan(`╚════════════════════════════════════╝`))
     console.log(chalk.greenBright(`\n🔐 Your Pairing Code:`), chalk.black.bgGreen(` ${code} `))
     console.log(chalk.yellow(`\n📲 Follow these steps:`))
