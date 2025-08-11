@@ -87,10 +87,10 @@ No extra steps, no hassle. Just easy setup. 😄
 Watch the tutorial and deploy your bot easily.
 
 <div align="left">
-  <a href="https://youtu.be/iqP_yUA_t6o?si=jC8tEcczM8acv19F">
+  <a href="https://youtube.com/@animewrldwars_anicade?si=rzw6LuizHpsEYmYi">
     <img src="https://img.shields.io/badge/TUTORIAL-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/>
   </a><br>
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
+  <a href="https://bot-hosting.net/?aff=1307984754657726504">
     <img src="https://img.shields.io/badge/Bothosting%20Panel-green?style=for-the-badge" alt="BOT HOSTING PANEL"/>
   </a>
 </div>
