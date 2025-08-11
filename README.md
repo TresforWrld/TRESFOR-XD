@@ -8,14 +8,14 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ahmadtech12/ITRESFOR-XD/fork">
+  <a href="https://github.com/ahmadtech12/TRESFOR-XD/fork">
     <img src="https://img.shields.io/github/forks/ahmadtech12/TRESFOR-XD?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="GitHub forks"/>
   </a>
   <a href="https://github.com/ahmadtech12/TRESFOR-XD/stargazers">
-    <img src="https://img.shields.io/github/stars/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/ahmadtech12/TRESFOR-XD?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
   </a>
   <a href="https://github.com/ahmadtech12/TRESFOR-XD/issues">
-    <img src="https://img.shields.io/github/issues/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&label=Issues&color=red" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/ahmadtech12/TRESFOR-XD?style=for-the-badge&logo=github&label=Issues&color=red" alt="GitHub issues" />
   </a>
   <a href="https://www.npmjs.com/package/TRESFOR-XD">
     <img src="https://img.shields.io/npm/v/TRESFOR-XD?style=for-the-badge&color=blue" alt="NPM version" />
