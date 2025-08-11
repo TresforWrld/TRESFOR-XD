@@ -59,7 +59,7 @@ and your dedication is woven into the heart of this bot.
 Click the button below to fork TRESFOR-XD repository to your GitHub account.
 
 <p align="left">
-  <a href="https://github.com/ahmadtech12/IMRAN-BOT/fork">
+  <a href="https://github.com/TresforWrld/TRESFOR-XD/fork">
     <img src="https://img.shields.io/github/forks/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="Forks"/>
   </a>
 </p>
@@ -77,7 +77,7 @@ No extra steps, no hassle. Just easy setup. 😄
 💾 3. Download Bot Zip
 
 <p align="left">
-  <a href="https://github.com/ahmadtech12/IMRAN-BOT/archive/refs/heads/main.zip">
+  <a href="https://github.com/ahmadtech12/TRESFOR-XD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download-Zip-blueviolet?style=for-the-badge&logo=github" alt="Download ZIP"/>
   </a>
 </p>
