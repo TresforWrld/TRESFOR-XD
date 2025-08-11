@@ -161,8 +161,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <div align="center">
   <h3>
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&color=ff1493,ff69b4,ff00ff,00ffff,32cd32,ffd700&background=000000&center=true&vCenter=true&width=900&lines=Angel+Jane%E2%80%99s+support+and+inspiration+turned+ideas+into+reality;Her+belief+fueled+IMRAN-BOT%E2%80%99s+success;Thanks+for+being+the+spark+behind+it+all.+✨" 
-      alt="Angel Jane Support" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=6000&color=ff1493,ff69b4,ff00ff,00ffff,32cd32,ffd700&background=000000&center=true&vCenter=true&width=900&lines=Made+with%E2%80%99s+love+and+inspiration+turned+ideas+into+reality;my+belief+fueled+TRESFOR-XD%E2%80%99s+LORD;Thanks+for+being+the+spark+behind+it+all🙏.+✨" 
+      alt="TRESFOR WRLD TECH" 
     />
   </h3>
 </div>
