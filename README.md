@@ -14,7 +14,7 @@
   <a href="https://github.com/TresforWrld/TRESFOR-XD/stargazers">
     <img src="https://img.shields.io/github/stars/TresforWrld/TRESFOR-XD?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/ahmadtech12/TRESFOR-XD/issues">
+  <a href="https://github.com/TresforWrld/TRESFOR-XD/issues">
     <img src="https://img.shields.io/github/issues/ahmadtech12/TRESFOR-XD?style=for-the-badge&logo=github&label=Issues&color=red" alt="GitHub issues" />
   </a>
   <a href="https://www.npmjs.com/package/TRESFOR-XD">
