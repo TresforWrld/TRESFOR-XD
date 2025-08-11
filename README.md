@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+IMRAN-BOT%3F" alt="What is TRESFOR-XD?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+TRESFOR-XD%3F" alt="What is TRESFOR-XD?" />
 </div>
 
 <div align="center">
