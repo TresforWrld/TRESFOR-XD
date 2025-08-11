@@ -2,44 +2,44 @@
 
 <div align="center"> 
   <!-- Your branded bot image -->
-  <img src="https://raw.githubusercontent.com/ahmadtech12/IMRAN-BOT/main/assets/june_repo.jpg" alt="IMRAN BOT" height="300" />
+  <img src="https://i.postimg.cc/Sxq2q3fP/In-Collage-20250809-114513368.jpg" alt="TRESFOR-XD" height="300" />
 </div>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/ahmadtech12/IMRAN-BOT/fork">
-    <img src="https://img.shields.io/github/forks/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="GitHub forks"/>
+  <a href="https://github.com/ahmadtech12/ITRESFOR-XD/fork">
+    <img src="https://img.shields.io/github/forks/ahmadtech12/TRESFOR-XD?style=for-the-badge&logo=github&logoColor=white&label=Forks&color=darkgreen" alt="GitHub forks"/>
   </a>
-  <a href="https://github.com/ahmadtech12/IMRAN-BOT/stargazers">
+  <a href="https://github.com/ahmadtech12/TRESFOR-XD/stargazers">
     <img src="https://img.shields.io/github/stars/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars" />
   </a>
-  <a href="https://github.com/ahmadtech12/IMRAN-BOT/issues">
+  <a href="https://github.com/ahmadtech12/TRESFOR-XD/issues">
     <img src="https://img.shields.io/github/issues/ahmadtech12/IMRAN-BOT?style=for-the-badge&logo=github&label=Issues&color=red" alt="GitHub issues" />
   </a>
-  <a href="https://www.npmjs.com/package/imran-bot">
-    <img src="https://img.shields.io/npm/v/imran-bot?style=for-the-badge&color=blue" alt="NPM version" />
+  <a href="https://www.npmjs.com/package/TRESFOR-XD">
+    <img src="https://img.shields.io/npm/v/TRESFOR-XD?style=for-the-badge&color=blue" alt="NPM version" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+IMRAN-BOT%3F" alt="What is IMRAN-BOT?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=32cd32,ff6347,1e90ff&center=true&width=400&height=40&lines=What+is+IMRAN-BOT%3F" alt="What is TRESFOR-XD?" />
 </div>
 
 <div align="center">
-✨🚀 IMRAN-BOT 🚀✨
-The Future of WhatsApp Automation
+✨🚀 TRESFOR-XD🚀✨
+The Future of WhatsApp Automation brought to you by TRESFOR-WRLD
 
-</div>
-IMRAN-BOT isn’t just another WhatsApp bot — it’s a multi-device powerhouse with 400+ thrilling, feature-packed commands that bring fun, style, and efficiency to every conversation.
+</div> 
+TRESFOR-XD isn’t just another WhatsApp bot — it’s a multi-device powerhouse with 400+ thrilling, feature-packed commands that bring fun, style, and efficiency to every conversation.
 Originally launched by Imran Khan, the bot’s coolest and most innovative features were brought to life by none other than Hassan Brovhi — a true visionary and creative genius.
 
 <div align="center">
 💎 Special Thanks & Respect 💎
 
-Hassan Brovhi — the creative powerhouse whose brilliance turned IMRAN-BOT from great to legendary.
+Hassan Brovhi — the creative powerhouse whose brilliance turned TRESFOR-XD from great to legendary.
 Your ideas inspired features people adore, your creativity pushed boundaries,
 and your dedication is woven into the heart of this bot.
 
@@ -56,7 +56,7 @@ and your dedication is woven into the heart of this bot.
 
 🚀 1. Fork the Repository
 
-Click the button below to fork IMRAN-BOT repository to your GitHub account.
+Click the button below to fork TRESFOR-XD repository to your GitHub account.
 
 <p align="left">
   <a href="https://github.com/ahmadtech12/IMRAN-BOT/fork">
@@ -170,9 +170,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+IMRAN+BOT+by+Imran+Khan;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=🤖+TRESFOR+XD+by+TRESFOR+WRLD;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation" />
 </h3>
 
 ---
 
-<p align="center">Made with ❤️ by Imran Khan — Star the repo if you like it!</p>
+<p align="center">Made with ❤️ by TRESFOR-WRLD — Star the repo if you like it!</p>
