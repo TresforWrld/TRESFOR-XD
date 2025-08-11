@@ -1,0 +1,16 @@
+﻿# Ignore node dependencies
+node_modules/
+
+# Ignore session files and secrets
+session/
+*.json
+
+# Ignore environment files
+.env
+
+# Ignore logs
+*.log
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
