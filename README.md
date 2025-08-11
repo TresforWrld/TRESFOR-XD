@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/ahmadtech12/TRESFOR-XD/fork">
+  <a href="TresforWrld/TRESFOR-XD">
     <img src="https://github.com/TresforWrld/TRESFOR-XD"style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub stars"  alt="GitHub forks"/>
   </a>
   <a href="https://github.com/TresforWrld/TRESFOR-XD/stargazers">
