@@ -77,7 +77,7 @@ No extra steps, no hassle. Just easy setup. 😄
 💾 3. Download Bot Zip
 
 <p align="left">
-  <a href="[https://github.com/TresforWrld/TRESFOR-XD/archive/refs/heads/main.zip]">
+  <a href="https://github.com/TresforWrld/TRESFOR-XD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download-Zip-blueviolet?style=for-the-badge&logo=github" alt="Download ZIP"/>
   </a>
 </p>
@@ -147,7 +147,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 </p>
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbAoVt0Bqbr1vsgafC3r" target="_blank" rel="noopener noreferrer">
+  <a href="https://whatsapp.com/channel/0029Vb6CNNW1HspqH5TNZH0s" target="_blank" rel="noopener noreferrer">
     <img title="WhatsApp Channel" src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
   &nbsp;&nbsp;
