@@ -137,11 +137,11 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img title="WhatsApp Contact" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/imrankhanbe" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/tresforwrld" target="_blank" rel="noopener noreferrer">
     <img title="Telegram Contact" src="https://img.shields.io/badge/Telegram-%230068FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/imrankhanicfu" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.facebook.com/TresforWrld" target="_blank" rel="noopener noreferrer">
     <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Profile" />
   </a>
 </p>
@@ -151,7 +151,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
     <img title="WhatsApp Channel" src="https://img.shields.io/badge/WhatsApp_Channel-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://chat.whatsapp.com/GPIsXLbnQFZ0tRmHJWQZkQ?mode=ac_t" target="_blank" rel="noopener noreferrer">
+  <a href="https://chat.whatsapp.com/LEnQnkp5kdi6EbGmETqDKz?mode=ac_t" target="_blank" rel="noopener noreferrer">
     <img title="Bot Support Group" src="https://img.shields.io/badge/Bot_Support_Group-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bot Support Group" />
   </a>
 </p>
