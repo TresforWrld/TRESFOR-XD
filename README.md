@@ -39,7 +39,7 @@ Originally launched by Imran Khan, the bot’s coolest and most innovative featu
 <div align="center">
 💎 Special Thanks & Respect 💎
 
-Hassan Brovhi — the creative powerhouse whose brilliance turned TRESFOR-XD from great to legendary.
+Tresfor Wrld — the creative powerhouse whose brilliance turned TRESFOR-XD from great to legendary.
 Your ideas inspired features people adore, your creativity pushed boundaries,
 and your dedication is woven into the heart of this bot.
 
@@ -87,7 +87,7 @@ No extra steps, no hassle. Just easy setup. 😄
 Watch the tutorial and deploy your bot easily.
 
 <div align="left">
-  <a href="https://youtube.com/@animewrldwars_anicade?si=rzw6LuizHpsEYmYi">
+  <a href="https://youtube.com/@its_a_code_wrld?si=jUzrt80L9vI6zXm9">
     <img src="https://img.shields.io/badge/TUTORIAL-red?style=for-the-badge&logo=youtube" alt="YouTube Tutorial"/>
   </a><br>
   <a href="https://bot-hosting.net/?aff=1307984754657726504">
@@ -101,7 +101,7 @@ Watch the tutorial and deploy your bot easily.
   <img src="https://readme-typing-svg.demolab.com?font=Fredoka+One&size=30&pause=1000&color=ff6347,32cd32,ff4500&center=true&width=400&height=40&lines=Reminder" alt="Reminder" />
 </div>
 
-- This bot has **no issues** on the WhatsApp side and works perfectly on **Heroku** — 100% safe and **not banned**.  
+- This bot has **no issues** on WhatsApp and works perfectly on **Heroku** — 100% safe and does **not get WA ban**.  
 Use it confidently for your WhatsApp groups and activities.
 
 ---
